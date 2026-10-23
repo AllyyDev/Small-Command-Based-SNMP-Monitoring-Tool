@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Sensor/Sensor.vcxproj" Id="0868cb78-aa40-4b8b-931f-111a72243d14" />
+</Solution>
